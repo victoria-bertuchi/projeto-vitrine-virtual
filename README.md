@@ -11,7 +11,6 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 -   **React JS** (Create React App)
 -   **JavaScript** (ES6+)
 -   **HTML5** & **CSS3**
--   **Git** & **GitHub**
 
 ##  Funcionalidades
 
