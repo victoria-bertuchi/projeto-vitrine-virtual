@@ -1,19 +1,28 @@
-# 🛍️ Projeto Vitrine Virtual
+# 🛍️ Vitrine Virtual - IFPR
 
-Uma aplicação web desenvolvida em **React** que simula uma vitrine de produtos de um e-commerce. O objetivo é demonstrar a listagem de produtos e interatividade com o usuário.
+> Trabalho Prático I - Desenvolvimento Web
 
+Este projeto consiste em uma aplicação web de **Vitrine Virtual** desenvolvida com **React JS**. A aplicação simula um e-commerce onde é possível visualizar uma lista de produtos, acessar detalhes específicos de cada item.
 
+O projeto foi construído seguindo os conceitos de **Componentização**, **Responsividade** e **Mobile First**.
 
-## Tecnologias Utilizadas
+---
 
-Este projeto foi desenvolvido com as seguintes tecnologias:
+## 🚀 Funcionalidades
 
--   **React JS** (Create React App)
--   **JavaScript** (ES6+)
--   **HTML5** & **CSS3**
+- **Vitrine de Produtos:** Listagem dinâmica de produtos com imagem, nome e preço.
+- **Detalhes do Produto:** Página exclusiva para cada item com descrição completa, especificações e fabricante.
+- **Consulta de Endereço:** Integração com a API ViaCEP para preenchimento automático de logradouro e validação da entrega.
+- **Simulação de Compra:** Validação de campos obrigatórios (número da residência) e feedback visual ao finalizar a compra.
+- **Design Responsivo:** Layout adaptável para dispositivos móveis (Mobile First) e desktop utilizando **Bootstrap**.
 
-##  Funcionalidades
+---
 
--    Listagem de produtos
--    Visualização de preços e detalhes
+## 🛠️ Tecnologias Utilizadas
+
+- **React JS** (Create React App)
+- **React Router Dom** (Navegação entre páginas)
+- **Bootstrap 5** (Estilização e Grid System)
+- **ViaCEP API** (Serviço gratuito de consulta de CEP)
+- **JavaScript (ES6+)**
 
