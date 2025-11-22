@@ -8,7 +8,7 @@ O projeto foi construído seguindo os conceitos de **Componentização**, **Resp
 
 ---
 
-## 🚀 Funcionalidades
+##  Funcionalidades
 
 - **Vitrine de Produtos:** Listagem dinâmica de produtos com imagem, nome e preço.
 - **Detalhes do Produto:** Página exclusiva para cada item com descrição completa, especificações e fabricante.
@@ -18,7 +18,7 @@ O projeto foi construído seguindo os conceitos de **Componentização**, **Resp
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
 - **React JS** (Create React App)
 - **React Router Dom** (Navegação entre páginas)
